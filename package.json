@@ -1,0 +1,21 @@
+{
+  "name": "level_db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "budo": "^11.6.3",
+    "express": "^4.17.1",
+    "level": "^6.0.0",
+    "level-js": "^5.0.1",
+    "level-sublevel": "^6.6.5",
+    "node": "^13.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
